@@ -13,4 +13,5 @@
 * เงื่อนไข: ให้เหลือจำนวน Available IPs มากที่สุด
 
 ***  ***
-![Alt text](./lab4.png)
+![Alt text](./lab5.drawio.png)
+![Alt text](./lab5.png)
