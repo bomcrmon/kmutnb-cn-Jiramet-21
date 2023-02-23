@@ -71,4 +71,4 @@
 ![Alt text](./11_.2.png)
 
 ***
-<marquee>6303051623055 นิรุท คุณวงค์ EnET-C KMUTNB</marquee>
+<marquee>6303051623063 จิรเมธ แก้วคำ EnET-C KMUTNB</marquee>
